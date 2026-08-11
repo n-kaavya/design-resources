@@ -1,9 +1,8 @@
 ## Icons
 
-# Icons
-
 | Resource | Description |
 | --- | --- |
+| [Topal](https://www.toptal.com/designers/htmlarrows/) | Reference for HTML Symbols, Entities and ASCII Character Codes |
 | [Bootstrap Icons](https://icons.getbootstrap.com/) | Official icon library from Bootstrap |
 | [IconArchive](https://www.iconarchive.com/) | Large collection of icons |
 | [Font Awesome](https://fontawesome.com/) | Popular icon library for web projects |
@@ -19,7 +18,7 @@
 | [IconHub](https://iconhub.io/) | Icon discovery and management resource |
 | [Iconic](https://iconic.app/) | Icon resource and management tool |
 | [Phosphor Icons](https://phosphoricons.com/) | Flexible open source icon family |
-| [Jam Icons](https://jam-icons.com/) | Free SVG icon library |
 | [Tabler Icons](https://tabler.io/icons) | Free and open source SVG icons |
 | [Remix Icon](https://remixicon.com/) | Open source neutral-style icon system |
 | [Icons8](https://icons8.com/icons) | Icons, illustrations, and other design resources |
+| [antd Icons](https://ant-design.antgroup.com/components/icon) | Semantic vector graphics. |
