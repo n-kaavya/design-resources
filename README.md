@@ -2,6 +2,7 @@
 
 ## Curated Design Resources
 
+- [Books and resources](./docs/books-and-resources.md)
 - [Colors](./docs/colors.md)
 - [Design Patterns](./docs/design-patterns.md)
 - [Icons](./docs/icons.md)
