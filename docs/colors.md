@@ -7,3 +7,4 @@
 | [Muzli Colors](https://colors.muz.li/) | Color Palette Generator |
 | [Web Gradients](https://webgradients.com/) | CSS Gradients |
 | [Adobe Color](https://color.adobe.com/create/color-wheel) | Color palette generator |
+
