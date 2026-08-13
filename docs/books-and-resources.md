@@ -1,4 +1,6 @@
-[← Back](../README.md)
+<p align="right">
+  <a href="../README.md">← Back</a>
+</p>
 
 ## Books & Resources
 
