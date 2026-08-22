@@ -1,9 +1,9 @@
 ## Design Resources
 
-- [Books and resources](./docs/resources/books-and-resources.md)
-- [Colors](./docs/resources/colors.md)
-- [Design Patterns](./docs/resources/design-patterns.md)
-- [Icons](./docs/resources/icons.md)
-- [Illustrations](./docs/resources/illustrations.md)
-- [Typography](./docs/resources/typography.md)
-- [Visual Design](./docs/resources/visual-design.md)
+- [Books and resources](./resources/books-and-resources.md)
+- [Colors](./resources/colors.md)
+- [Design Patterns](./resources/design-patterns.md)
+- [Icons](./resources/icons.md)
+- [Illustrations](./resources/illustrations.md)
+- [Typography](./resources/typography.md)
+- [Visual Design](./resources/visual-design.md)
