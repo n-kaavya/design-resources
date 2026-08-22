@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="https://n-kaavya.github.io/design-resources/README.md">← Back</a>
+   <a href="/">← Back</a>
 </p>
 
 ## Design Patterns
