@@ -1,5 +1,5 @@
 <p align="right">
-   <a href="/">← Back</a>
+ <a href="/design-resources/">← Back</a>
 </p>
 
 ## Icons
