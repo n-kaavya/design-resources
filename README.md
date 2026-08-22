@@ -1,6 +1,4 @@
-# Design Resources
-
-## Curated Design Resources
+## Design Resources
 
 - [Books and resources](./docs/books-and-resources.md)
 - [Colors](./docs/colors.md)
