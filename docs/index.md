@@ -1,4 +1,4 @@
-## Design Resources
+## Collection of Design Resources
 
 - [Books and resources](./resources/books-and-resources.md)
 - [Colors](./resources/colors.md)
